@@ -1,0 +1,27 @@
+#logo {
+    margin: none;
+    width: 70px;
+
+}
+
+#logo2 {
+    margin: none;
+    width: 100px;
+
+}
+
+#contactlog1 {
+    display: inline;
+    font-size: 40px;
+    color: rgb(50, 50, 50);
+
+}
+
+#line {
+    color: black;
+}
+
+#logo3 {
+    width: 200px;
+    margin: 5px;
+}
