@@ -25,3 +25,9 @@
     width: 200px;
     margin: 5px;
 }
+
+#contactlog2 {
+    display: inline;
+    font-size: 40px;
+    color: #ed563b
+}
